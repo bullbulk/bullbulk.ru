@@ -95,21 +95,23 @@
                             Мобильное приложение проекта ПАО «СИБУР Холдинг» «Формула Хороших Дел»
                         </p>
                         <p>
-                            Реализация платформы сбора и обработки заявок проекта социальных инвестиций.
-                            Сбор заявок и их обработка, нотификация заявителей, сбор отчётности, база данных волонтёров.
+                            Разработка и публикация приложения для Android и iOS. Новости, билеты, записи на
+                            мероприятия, опросы и прочее.
                         </p>
                         <p class="stack">
                             Flutter, Django, DRF.
                         </p>
                         <div class="flex gap-5">
                             <b>
-                                <a href="https://play.google.com/store/apps/details?id=com.siburhd.android" target="_blank">
+                                <a href="https://play.google.com/store/apps/details?id=com.siburhd.android"
+                                   target="_blank">
                                     Google Play
                                 </a>
                                 <i class="fa-solid fa-external-link"></i>
                             </b>
                             <b>
-                                <a href="https://apps.apple.com/ru/app/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-hd/id6449192676" target="_blank">
+                                <a href="https://apps.apple.com/ru/app/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-hd/id6449192676"
+                                   target="_blank">
                                     App Store
                                 </a>
                                 <i class="fa-solid fa-external-link"></i>
