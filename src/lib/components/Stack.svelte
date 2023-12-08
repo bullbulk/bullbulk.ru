@@ -36,7 +36,7 @@
                 <img alt="Svelte" src="{svelte}">
                 <div class="description">
                     <h4>Svelte</h4>
-                    <p>SPA, PWA, микросервисы</p>
+                    <p>SPA, PWA, встраивание через Electron</p>
                 </div>
             </div>
             <div class="stack__item">
