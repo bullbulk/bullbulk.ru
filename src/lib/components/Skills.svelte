@@ -18,13 +18,6 @@
                 </div>
             </div>
             <div class="skill">
-                <img alt="design" src="{design}">
-                <div>
-                    <h4>Дизайн интерфейса</h4>
-                    <p>Отрисовка прототипов и готовых компонентов</p>
-                </div>
-            </div>
-            <div class="skill">
                 <img alt="mobile" src="{mobile}">
                 <div>
                     <h4>Мобильная разработка</h4>
@@ -34,7 +27,7 @@
             <div class="skill">
                 <img alt="distributed" src="{distributed}">
                 <div>
-                    <h4>Разработка архитектуры распределённых систем</h4>
+                    <h4>Разработка архитектуры сложных распределённых систем</h4>
                     <p>Создание архитектуры компонентов сложных приложений</p>
                 </div>
             </div>
@@ -45,7 +38,7 @@
 
 <style lang="scss">
   .skills {
-    padding: 10rem;
+    padding: 7.5rem 10rem;
     min-height: 100vh;
 
     &__items {

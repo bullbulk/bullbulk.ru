@@ -38,7 +38,7 @@
 
 <style lang="scss">
   .contacts {
-    padding: 10rem;
+    padding: 7.5rem 10rem;
     min-height: 100vh;
 
     & form {
